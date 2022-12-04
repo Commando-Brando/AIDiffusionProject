@@ -31,8 +31,8 @@ theme_config:
   home:
     title_projects: Code Snippets
     title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    title_blog: Presentation
+    title_old_projects: Research Poster
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
