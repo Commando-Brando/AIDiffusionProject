@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://commando-brando.github.io/AIDiffusionProject/
 
 project_entries:
   - title: Project 1
@@ -15,7 +15,7 @@ project_entries:
     highlight: Brandon
 
   - title: Project 2
-    url: DreamBooth
+    url: overview-post1
     desc: Dreambooth
     highlight: Tiba
 
