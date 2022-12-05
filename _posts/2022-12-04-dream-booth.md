@@ -12,7 +12,7 @@ tags: [overview, moonwalk]
 
 # Input Images
 
-![IMG1](https://github.com/Commando-Brando/AIDiffusionProject/blob/main/images/IMG1.jpg)
+![IMG1](/AIDiffusionProject/blob/main/images/IMG1.jpg)
 ![IMG2](../images/IMG2.jpg)
 ![IMG3](../images/IMG3.jpg)
 ![IMG4](../images/IMG4.jpg)
