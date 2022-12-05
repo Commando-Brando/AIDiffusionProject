@@ -1,1 +1,149 @@
-<h1>Hello World</h1>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>AI project</title>
+  </head>
+  <body>
+
+    <div class="container-fluid text-center">
+        <div class="row align-items-center">
+            <div class="col">
+                <h1>Caption to Image Generation</h1>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            <div class="col">
+                <h2>Overview</h2>
+                <div class="row align-items-center">
+                    <div class="col-4"></div>
+                    <div class="col-4">
+                        <p>Artificial image generation is becoming more and
+                            more popular and, as of recently, has become easy to
+                            use, widely available, and giving high quality results.
+                            We each were able to download and run code from a
+                            research paper of our choice that used different
+                            methods to get the same result. We then compared
+                            our results, giving our models the same prompt to
+                            generate and give the pros and cons of each model</p>
+                    </div>
+                    <div class="col-4"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h2>Models</h2>
+            </div>
+        </div>
+
+        <!-- ! Brandon's Stable Diffusion -->
+        <div class="row">
+            <div class="col">
+                <h3>Stable Diffusion</h3>
+                <h4>Implemented by Brandon Muller</h4>
+                <div class="row align-items-center">
+                    <div class="col-4"></div>
+                    <div class="col-4">
+                        <p>Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.</p>
+                    </div>
+                    <div class="col-4"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4>Stable Diffusion Results</h4>
+                <img src="/assets/img/CuteGreyCats.JPG" alt="">
+                <img src="/assets/img/RobotsBirthday.JPG" alt="">
+                <img src="/assets/img/Stable Diffusion.png" alt="">
+            </div>
+        </div>
+
+
+        <!-- ! Tibas Dream Booth -->
+        <div class="row">
+            <div class="col">
+                <h3>Dream Booth</h3>
+                <h4>Implemented by Tiba Al Anssari</h4>
+                <p>DreamBooth is a stable diffusion model that works by taking in a subject input images and then generating images of the subject in different prompts. It uses a process called fine-tuning to generate those images.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4>Dream Booth Results</h4>
+                <img src="/assets/img/Pippa Beach 2.png" alt="">
+                <img src="/assets/img/Pippa Beach.png" alt="">
+                <img src="/assets/img/Pippa Eiffel Tower.png" alt="">
+                <img src="/assets/img/Pippa Xmas Hat.png" alt="">
+            </div>
+        </div>
+
+
+        <!-- ! Abie's Latent Diffusion -->
+        <div class="row">
+            <div class="col">
+                <h3>Latent Diffusion</h3>
+                <h4>Implemented by Abie Faz</h4>
+                <div class="row align-items-center">
+                    <div class="col-4"></div>
+                    <div class="col-4">
+                        <p>My model used the LAION-400M dataset and filtered out the NSFW text-image pairs.  It also took it two repositories, one that used latent diffusion to gather text-image pairs via nearest neighbor lookup. The second repository took in the outputs of the first repo and made the image even clearer.
+                        </p>
+                    </div>
+                    <div class="col-4"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4>Latent Diffusion Results</h4>
+                <img src="/assets/img/Abie - baby kitten trying not to cry.png" alt="">
+                <img src="/assets/img/Abie - caterpillar riding a horse.png" alt="">
+                <img src="/assets/img/Abie - Dog playing with a cat.png" alt="">
+                <img src="/assets/img/Abie - nearest neighbor lookup.png" alt="">
+            </div>
+        </div>
+
+
+
+        <!-- ! Randy DreamDaze -->
+        <div class="row">
+            <div class="col">
+                <h3>Deep Daze</h3>
+                <h4>Implemented by Randy Sewell</h4>
+                <p></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4>Deep Daze Results</h4>
+                <img src="/assets/img/Screenshot_20221204_064046.png" alt="">
+                <img src="/assets/img/Screenshot_20221204_090805.png" alt="">
+                <img src="/assets/img/Screenshot_20221204_091155.png" alt="">
+                <img src="/assets/img//Screenshot_20221204_092818.png" alt="">
+            </div>
+        </div>
+
+    </div> <!-- end container -->
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
