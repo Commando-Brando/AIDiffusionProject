@@ -1,85 +1,38 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Tiba Al Anssari
 tags: [overview, moonwalk]
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+# Google Collab Code
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+[Code](https://colab.research.google.com/drive/1Ht59qGwkv_2CFH-iSYDRN91tNxexbPkP?usp=sharing)
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+# Code Snippets
 
-## Lists
+# Input Images
 
-Unordered:
+![IMG1](../images/IMG1.jpg)
+![IMG2](../images/IMG2.jpg)
+![IMG3](../images/IMG3.jpg)
+![IMG4](../images/IMG4.jpg)
+![IMG5](../images/IMG5.jpg)
+![IMG6](../images/IMG6.jpg)
+![IMG7](../images/IMG7.jpg)
+![IMG8](../images/IMG8.jpg)
+![IMG9](../images/IMG9.jpg)
+![IMG10](../images/IMG10.jpg)
+![IMG11](../images/IMG11.jpg)
+![IMG12](../images/IMG12.jpg)
+![IMG13](../images/IMG13.jpg)
+![IMG14](../images/IMG14.jpg)
+![IMG15](../images/IMG15.jpg)
+![IMG16](../images/IMG16.jpg)
+![IMG17](../images/IMG17.jpg)
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+# Result Images
 
-Ordered:
-
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
-
-## Blockquote
-
-The following is a blockquote:
-
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
-
----
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
-
-## Code
-
-Now some code:
-
-```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
-
-This is an image[^4]
-
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
-[^2]: hey there, don't forget to read all the footnotes!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
+![Pippa Beach](../images/Pippa Beach.jpg "Pippa at the beach")
+![Pippa Beach](../images/Pippa Beach 2.jpg "Pippa at the beach 2")
+![Pippa Eiffel Tower](../images/Pippa Eiffel Tower.jpg "Pippa next to Eiffel tower")
+![Pippa X-mas Hat](../images/Pippa Xmas.jpg "Pippa wearing X-mas hat")
