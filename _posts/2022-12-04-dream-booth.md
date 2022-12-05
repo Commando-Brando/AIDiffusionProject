@@ -15,7 +15,7 @@ tags: [overview, moonwalk]
 ![IMG1](../assets/images/IM12.jpg)
 ![IMG2](../assets/images/IMG2.jpg)
 ![IMG3](../assets/images/IMG3.jpg)
-![IMG4]../assets/images/IMG4.jpg)
+![IMG4](../assets/images/IMG4.jpg)
 ![IMG5](../assets/images/IMG5.jpg)
 ![IMG6](../assets/images/IMG6.jpg)
 ![IMG7](../assets/images/IMG7.jpg)
